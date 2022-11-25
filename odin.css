@@ -1,3 +1,18 @@
 h1{
   text-align:center;
 }
+
+
+
+/* CSS FOR RECIPES PAGE */
+.profile-imgs{
+  display:flex;
+  flex-direction:column;
+
+}
+.recipe-profile-image{
+  width:250px;
+  height:250px;
+  margin-top:20px;
+  border-radius:120px;
+}
