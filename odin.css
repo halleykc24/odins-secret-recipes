@@ -5,15 +5,22 @@ h1{
 
 
 /* CSS FOR RECIPES PAGE */
-.profile-imgs{
-  display:flex;
-  flex-direction:column;
-  
-
-}
 .recipe-profile-image{
   width:250px;
   height:250px;
   margin-top:20px;
   border:8px solid black;
 }
+
+/* Odins Ambrosia */
+
+
+/* Thors Thunder IceCream */
+.profile-image{
+  width:320px;
+  height:350px;
+  margin-top:20px;
+  border:8px solid black;
+}
+
+/* Lokis Pomegranate Wine */
